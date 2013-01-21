@@ -28,7 +28,13 @@ That's it!
 
 ## CommonJS Version
 
-If you're using this on the client but your project is in node.js you can install this with: https://github.com/henrikjoreteg/clientmodules and npm. 
+If you're using this on the client but your project is in node.js you can install this with: https://github.com/henrikjoreteg/clientmodules and npm:
+
+```
+npm install favicon-setter
+```
+
+Then just do this:
 
 ```js
 var setFavicon = require('favicon-setter');
