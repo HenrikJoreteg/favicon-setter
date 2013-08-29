@@ -14,6 +14,8 @@
             head.removeChild(oldLink);
         }
         head.appendChild(link);
+
+        return this;
     };
 
     // export for various systems

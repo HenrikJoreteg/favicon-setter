@@ -1,6 +1,6 @@
 {
     "name": "favicon-setter",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Henrik Joreteg <henrik@andyet.net>",
     "description": "Super-simple tool for dynamically setting the favicon image on a page.",
     "main": "./favicon-setter.js",
